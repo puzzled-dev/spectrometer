@@ -4,9 +4,7 @@ This is my DIY spectrometer project. Its body is printed on a 3D printer, and th
 with `opencv` and `matplotlib`. An ordinary **DVD-R** disk was used to make the diffraction grating.
 
 ## How diffraction works
-
 ![Diffraction](img/diffraction.png)
 
 ## How spectrum processing works
-
 ![Spectrum](img/spectrum.png)
