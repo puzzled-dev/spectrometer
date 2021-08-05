@@ -5,10 +5,10 @@ with `opencv` and `matplotlib`. An ordinary **DVD-R** disk was used to make the 
 
 ## How diffraction works
 <div align="center">
-    <img src="https://raw.githubusercontent.com/puzzled-dev/spectrometer/main/img/diffraction.png" alt="Diffraction">
+    <img src="https://raw.githubusercontent.com/puzzled-dev/spectrometer/main/img/diffraction.jpg" alt="Diffraction">
 </div>
 
 ## How spectrum processing works
 <div align="center">
-    <img src="https://raw.githubusercontent.com/puzzled-dev/spectrometer/main/img/spectrum.png" alt="Spectrum">
+    <img src="https://raw.githubusercontent.com/puzzled-dev/spectrometer/main/img/spectrum.jpg" alt="Spectrum">
 </div>
